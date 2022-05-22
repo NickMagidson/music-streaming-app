@@ -8,7 +8,6 @@ export default function Login() {
   return (
     <Container
       className="d-flex align-items-center justify-content-center"
-      fixed="top"
       style={{ minHeight: "100vh" }}
     >
       <a className="btn btn-success btn-lg" href={AUTH_URL}>
